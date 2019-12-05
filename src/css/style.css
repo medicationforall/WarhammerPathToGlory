@@ -1,0 +1,11 @@
+html{
+  font-family:arial;
+}
+
+.pastCharacters .character{
+  border:1px solid #000;
+  padding:5px;
+  border-radius:5px;
+  display:inline-block;
+  margin:5px;
+}
