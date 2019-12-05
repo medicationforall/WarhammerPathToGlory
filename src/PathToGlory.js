@@ -17,7 +17,11 @@ class PathToGlory extends React.Component {
       live:true,
       rolls:0,
       blessings:0,
-      injuries:0
+      injuries:0,
+      message:'',
+      result:'',
+      blessingEntries:[],
+      double:false
     }
 
     this.state = {

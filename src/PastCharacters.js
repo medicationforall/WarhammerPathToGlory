@@ -1,6 +1,9 @@
 import React from 'react';
 import titles from './json/titles.json';
 
+/**
+ *
+ */
 function PastCharacters(props){
   //console.log('PastCharacters',props);
   let entries = props.characters.map(_renderCharacter);
@@ -12,6 +15,10 @@ function PastCharacters(props){
   );
 }
 
+
+/**
+ *
+ */
 function _renderCharacter(character,index){
   let key = 'ch_'+index;
   return (
@@ -20,7 +27,7 @@ function _renderCharacter(character,index){
       Level {character.level} - {titles[character.level-1]}<br />
       Battles: {character.rolls}<br />
       Injuries:{character.injuries}<br />
-      Blessings:{character.blessings}<br />
+    Blessings:{character.blessingEntries.length}<br />
       Prestige:{character.rolls+character.injuries+character.blessings}
     </div>
   );

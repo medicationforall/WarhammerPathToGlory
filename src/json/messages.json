@@ -1,0 +1,27 @@
+[
+  {
+    "died":"Yep, it's a cruel life being a lowly Marauder in the mortal Realms!",
+    "survived":"Your Haven't died yet, but nor have you caught the attention of the Dark Gods.",
+    "glory":"You have become a Chaos Warrior! You are now a might foot soldier of the Chaos legions, blessed with great size and strength, clad in heavy plate armour."
+  },
+  {
+    "died":"Alas, not even your Chaos-blessed armour is proof against every attack...",
+    "survived":"It looks like you passed all of your saving throws, but you need to do better to earn the favour of your infernal patron(s)!",
+    "glory":"You have become a Chaos Knight! You now ride to battle atop a fearsome steed bred for war."
+  },
+  {
+    "died":"Though many were slain by your hand, your name will not be remembered.",
+    "survived":"You should be leading each charge from the front if you want to get noticed, not hiding at the back!",
+    "glory":"You have become a Varanguard! Your bloody deeds have seen you summoned by Archaon himself to serve as one of his chosen warriors."
+  },
+  {
+    "died":"Though you fought well, you faltered one step short of greatness.",
+    "survived":"To merely survive is not good enough for one of Archaon's chosen.",
+    "glory":"You have become a Chaos Lord! You have the privilege of riding a monstrous creature of Chaos into battle and an entire legion of warriors is yours to command."
+  },
+  {
+    "died":"You may have fallen, but your name will pass into legend as a dread champion of the Dark Gods.",
+    "survived":"Your conquests sweep across the Mortal Realms, but the final, glorious victory that will ultimately earn you immortality at the hands of the Dark Gods still eludes you.",
+    "glory":"Your have become a Daemon Prince! Against all the odds, you have triumphed where countless others have failed."
+  }
+]
