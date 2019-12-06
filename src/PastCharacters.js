@@ -26,9 +26,9 @@ function _renderCharacter(character,index){
       Name: {character.name}<br />
       Level {character.level} - {titles[character.level-1]}<br />
       Battles: {character.rolls}<br />
-      Injuries:{character.injuries}<br />
-    Blessings:{character.blessingEntries.length}<br />
-      Prestige:{character.rolls+character.injuries+character.blessings}
+      Injuries:{character.injuries.length}<br />
+      Blessings:{character.blessings.length}<br />
+      Prestige:{character.rolls+character.injuries.length+character.blessings.length}
     </div>
   );
 }

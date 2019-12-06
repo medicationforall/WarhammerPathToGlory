@@ -1,0 +1,26 @@
+[
+  {
+    "title":"Dead",
+    "message":"Some injuries are too much even for a Champion of Chaos to endure..."
+  },
+  {
+    "title":"Mortal Injury",
+    "message":"Unless your next Combat Roll is a double, you succumb to your injuries and die."
+  },
+  {
+    "title":"Severed Leg",
+    "message":"An unfortunate encounter with a hungry squig leaves you bereft of a leg. Subtract 1 from all future Combat Rolls. If you suffer this injury a second time, you are dead."
+  },
+  {
+    "title":"Severed Arm",
+    "message":"A Fyreslayer's axe disarms you in more ways than one! Subtract 1 from all future Combat Rolls that are a double except for a double-6. If you suffer this injury a second time, you are dead."
+  },
+  {
+    "title":"Serious Concussion",
+    "message":"A thunderous blow from a Retributor's hammer leaves you somewhat discombobulated. Subtract 1 from your next Combat Roll while you recover."
+  },
+  {
+    "title":"Fearsome Scars",
+    "message":"Though horribly scarred by the claws of a dread beast you actually look kinda badass! Add 1 to your next Combat Roll while your scars are still raw and imposing."
+  }
+]
